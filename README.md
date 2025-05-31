@@ -44,12 +44,12 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dineth-basura&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Dineth's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dineth-basura&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Dineth's GitHub Stats"/>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dineth-basura&theme=dark&hide_border=false" alt="Dineth's GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth-basura&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth-basura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
 
 ---
 
