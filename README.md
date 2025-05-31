@@ -1,4 +1,4 @@
-# 💫 Hellow World! i'm Dineth Basura 👋🏼:
+# 💫 Hellow World!, i'm Dineth Basura 👋🏼:
 🔭 Currently focused on developing AI-driven and web-based applications<br><br>👯 Open to collaborating on innovative AI and frontend/backend web projects<br><br>🤝 Seeking guidance in advanced machine learning techniques and scalable web architectures<br><br>🌱 Actively expanding knowledge in Artificial Intelligence and Machine Learning domains<br><br>💬 Feel free to ask me about data science, neural networks, and modern web technologies<br><br>⚡ Fun fact: I combine creativity with coding to solve real-world problems as an SLIIT student
 
 
