@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://YOUR_ANIMATED_GIF_URL_HERE.gif" alt="Hi, I'm Dineth Basura" width="500"/>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dineth+Basura;A+Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
