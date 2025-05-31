@@ -1,5 +1,5 @@
 <div align="center">
- https://readme-typing-svg.demolab.com/demo/?font=JetBrains+Mono&size=25&color=802272E6&background=27262508&lines=Hi%2C+I'm+Dineth+Basura;Don't+Forget+To+Follow+Me...
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=802272E6&background=27262508&width=435&lines=Hi%2C+I'm+Dineth+Basura;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dineth-basura&theme=dark&hide_border=false" alt="Dineth's GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth-basura&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
+p>
 
 ---
 
